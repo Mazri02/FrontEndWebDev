@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FrontEndWebDev/static/css/main.55d38e46.css",
+    "main.js": "/FrontEndWebDev/static/js/main.c39a3a19.js",
+    "static/js/453.d855a71b.chunk.js": "/FrontEndWebDev/static/js/453.d855a71b.chunk.js",
+    "static/media/NotoSans-Regular.ttf": "/FrontEndWebDev/static/media/NotoSans-Regular.fa11626fafb16c629d2c.ttf",
+    "static/media/logo.png": "/FrontEndWebDev/static/media/logo.ab0577dc86998f9f3efb.png",
+    "static/media/whatsapp.png": "/FrontEndWebDev/static/media/whatsapp.d79a6ee2ca2b75a5a3ba.png",
+    "static/media/instagram.png": "/FrontEndWebDev/static/media/instagram.476cadf1f1a5d36362a7.png",
+    "index.html": "/FrontEndWebDev/index.html",
+    "main.55d38e46.css.map": "/FrontEndWebDev/static/css/main.55d38e46.css.map",
+    "main.c39a3a19.js.map": "/FrontEndWebDev/static/js/main.c39a3a19.js.map",
+    "453.d855a71b.chunk.js.map": "/FrontEndWebDev/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d38e46.css",
+    "static/js/main.c39a3a19.js"
+  ]
+}
