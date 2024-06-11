@@ -1,0 +1,170 @@
+html {
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.headApps { 
+    position: relative;
+    top:0;
+    left: 0;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    height: 11.5%;
+    width: 100%;
+    z-index: 4;
+    background-color: #b73b37;
+}
+
+/*
+.backgroundHeadApps {
+    display: flex;
+    height: 11.5%;
+    filter: blur(1.5px);
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+*/
+
+.headTitle { 
+    display: flex;
+    list-style-type: none;
+}
+
+.headTitle li { 
+    padding: 0.5em 2em;
+}
+
+.headTitle li a, .footTitle li a{
+    text-decoration: none;
+    color : black;
+}
+
+@font-face {
+    font-family: NotoSans;
+    src: url(../NotoSans-Regular.ttf);
+}
+
+* { 
+    font-family: NotoSans;
+}
+
+.headTitle li:hover {
+    transform: scale(1.05);
+    transition: .2s ease;
+}
+
+.footCont {
+    display:flex;
+}
+
+.footApps {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #3b4461;
+    padding-top: 2em;
+}
+
+.ContentContainer {
+    padding: 0 5em;
+    margin: 2em;
+    display: grid;
+/*    background-image: url(image/car.jpg);*/
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.BoldTitle,.CopyrightDisc { 
+    font-weight: bold;
+}
+
+.footTitle {
+    padding-left: 5em !important;
+    list-style-type: none;
+    margin: 0 !important;
+}
+
+.LogoCont {
+    width: 10%;
+    height: 60%;
+}
+
+.footCont {
+    display: flex;  
+    justify-content: center;
+    padding-bottom: 1em;
+}
+
+.logoPic { 
+    border-radius: 5em;
+    padding: 4em 3em;
+    width: 35%;
+    background-image: url(image/logo.png);
+    background-color: white;
+}
+
+.InstaLogo {
+    background-image: url(image/instagram.png);
+}
+
+.WhatsappLogo { 
+    background-image: url(image/whatsapp.png);
+}
+
+.FacebookLogo { 
+    background-image: url(image/facebook.png);
+}
+
+.d-flex {
+    display: flex;
+}
+
+.InstaLogo,.FacebookLogo,.WhatsappLogo {
+    padding: 1em;
+    width: 35%;
+    background-size: 75% !important;
+}
+
+.logoPic,.InstaLogo,.FacebookLogo,.WhatsappLogo, .ContentContainer{
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.justCont{
+    width: 75%;
+    justify-content: space-between;
+    display: flex;
+}
+
+.mediaCont { 
+    padding: 1em;
+    border-top: .25px solid white;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "imageUrl" : "image/ServiceDesc/InspectionCar.jpg",
+        "imageTitle" : "Car Inspection",
+        "subTitle" : "What will we do?",
+        "imageDesc" : "Our company conduct comprehensive assessments of vehicles to ensure customers safety and performance. We inspect critical components, evaluate mechanical performance, check the vehicle's body and interior, and perform emissions testing. We document all findings in a detailed report. Our goal is to provide an unbiased, professional assessment of a vehicle's condition, ensuring safe driving, and preserving the vehicle's value."
+    },
+    {
+        "imageUrl" : "image/ServiceDesc/CarService.jpg",
+        "imageTitle" : "Standard Service",
+        "subTitle" : "What can we do?",
+        "imageDesc" : "We offer a wide range of services to meet all your vehicle needs. We provide comprehensive inspections, routine maintenance, and complex repairs. Our services include oil changes, brake checks, tire rotations, and engine diagnostics. We also specialize in transmission repairs and air conditioning servicing. We strive to deliver top-notch service to keep your vehicle running smoothly and safely. Your satisfaction is our priority."
+    },
+    {
+        "imageUrl" : "image/ServiceDesc/CarRepair.jpg",
+        "imageTitle" : "Repair & Maintenance",
+        "subTitle" : "What services we offer?",
+        "imageDesc" : "We cater to all your vehicle's repair and maintenance needs. From routine tune-ups to intricate engine repairs, we've got you covered. We handle oil changes, brake servicing, tire balancing, and more. Our team also excels in diagnosing and fixing transmission issues and air conditioning systems. We're dedicated to ensuring your vehicle's longevity and your peace of mind. Your car's well-being is our mission." 
+    },
+    {
+        "imageUrl" : "image/ServiceDesc/OptionalService.jpg",
+        "imageTitle" : "Optional Resources",
+        "subTitle" : "Is there any additional service?",
+        "imageDesc" : "We conduct thorough inspections to ensure your car's optimal performance. Beyond this, we offer a range of additional services tailored to your needs. Our skilled team can transform your vehicle's appearance with high-quality paint jobs or wrap jobs, giving it a fresh, unique look. Trust us to deliver exceptional service every time." 
+    }
+        
+]

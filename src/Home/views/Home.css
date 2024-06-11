@@ -1,0 +1,188 @@
+/* * {
+    border: 5px solid red;
+} */
+
+body {
+    margin: 0 !important;
+}
+
+.Tagline {
+    padding-top: 50px;
+    height: 100%;
+}
+
+.ServiceProduct {
+    display: flex;
+    padding: 40px 10px 40px 10px;
+    justify-content: center;
+}
+
+.Video{
+    width: 100% ;
+    position: absolute;
+    opacity: 90%;
+    z-index: -1;
+}
+
+.ContVids {
+    background-color: black;
+}
+
+.textType, .ContVids{
+    z-index: 30;
+    flex-wrap: nowrap;
+    display: grid;
+    place-items: right;
+    justify-content: right;
+    align-content: center;  
+    color: #ffffff;
+    padding: 0 5em;
+    vertical-align: right;
+    text-align: right;
+    height: 33em !important;
+}
+
+.textType h2, h4, h7 {
+    font-weight: 600;
+}
+
+.Service {
+    display: grid;
+    padding: 40px 10px 40px 10px;
+    text-align: left;
+}
+
+.Service button {
+    display: inline-block;
+    padding: 40px 10px 40px 10px;
+    /* background-image: url('../image/tagline_car.jpg'); /* Replace with your actual image path */
+    /* background-size: cover; */
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.imageStaff {
+    padding: 5em;
+    background-size: cover;
+    background-position: center;
+    height: 110px;
+}
+
+.Product {
+    display: grid;
+    padding: 40px 10px 40px 10px;
+    text-align: justify;
+}
+
+.Product button {
+    display: inline-block;
+    padding: 40px 10px 40px 10px;
+    /* background-image: url('../image/tagline_car.jpg'); /* Replace with your actual image path */
+    /* background-size: cover; */
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-align: justify;
+    border-radius: 5px;
+}
+
+.StaffTitle {
+    padding: 40px 10px 10px 10px;
+}
+
+.StaffMember {
+    display: flex;
+    padding: 40px 20px 40px 10px;
+    justify-content: center;
+}
+
+
+.AboutUs {
+    padding: 40px 0px 40px 10px;
+    justify-content: center;
+}
+
+.AboutUsWrap {
+    display: flex;
+}
+
+.AboutUsCard {
+    display: flex;
+    padding: 40px 10px 40px 10px;
+    justify-content: center;
+}
+
+.CoreValue {
+    display: flex;
+    padding: 60px 0px 30px 0px;
+    flex-direction: column;
+}
+
+.TestimonialText {
+    display: grid;
+    padding: 40px 10px 10px 10px;
+    justify-content: center;
+}
+
+.Testimonial {
+    display: grid;
+    padding: 40px 10px 40px 10px;
+    justify-content: center;
+}
+
+.Contact {
+    display: grid;
+    padding: 40px 10px 40px 10px;
+    text-align: left;
+}
+
+.ContactDetails {
+    padding: 40px 10px 40px 10px;
+    text-align: left;
+}
+
+.ContactSelangor {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imageLongCard {
+    padding: 5em;
+    background-size: cover;
+    background-position: center;
+    width: 100px;   
+    height: 100px;
+}
+
+.imageLocation {
+    padding: 5em;
+    background-size: cover;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+}
+
+.imageMaps {
+    display: flex;
+}
+
+.ButtonClick {
+    size: 10px;
+    padding-top: 25px;
+}
+
+.checked {
+    color: orange;
+}
+
+.StarContainer {
+    display: flex;
+    font-size: xx-large;
+    padding-bottom: 15px;
+}

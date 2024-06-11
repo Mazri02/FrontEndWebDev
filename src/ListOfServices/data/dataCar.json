@@ -1,0 +1,82 @@
+[
+    {
+        "CarType":"Perodua Myvi",
+        "image":"image/CarType/Perodua_Myvi.png",
+        "listPrice": [162,15,37.10,55,75,1300,2950,144,65,37.10]
+    },
+    {
+        "CarType":"Perodua Axia",
+        "image":"image/CarType/Perodua_Axia.png",
+        "listPrice": [142.90,7,37.10,35,75,4000,2715,125,60,37.10]
+    },
+    {
+        "CarType":"Perodua Ativa",
+        "image":"image/CarType/Perodua_Ativa.png",
+        "listPrice": [160.50,11.90,37.10,471.90,75,2100,3177.90,144,63,37.10]
+    },
+    {
+        "CarType": "Perodua Bezza",
+        "image": "image/CarType/Perodua_Bezza.png",
+        "listPrice": [177.70, 13, 50.00, 80.00, 60.00, 3000.00, 572.76, 150.00, 500.00, 75.00]
+    },
+    {
+        "CarType": "Perodua Alza",
+        "image": "image/CarType/Perodua_Alza.png",
+        "listPrice": [186.40, 12, 45.00, 90.00, 70.00, 3200.00, 572.76, 160.00, 550.00, 80.00]
+    },
+    {
+        "CarType": "Honda City",
+        "image": "image/CarType/Honda_City.png",
+        "listPrice": [200.00, 30.00, 50.00, 380.80, 75.00, 2500.00, 3200.00, 150.00, 70.00, 40.00]
+    },
+    {
+        "CarType": "Honda Civic",
+        "image": "image/CarType/Honda_Civic.png",
+        "listPrice": [220.00, 35.00, 55.00, 400.00, 80.00, 2700.00, 3400.00, 160.00, 75.00, 45.00]
+    },
+    {
+        "CarType": "Honda CR-V",
+        "image": "image/CarType/Honda_HRV.png",
+        "listPrice": [240.00, 40.00, 60.00, 420.00, 85.00, 2900.00, 3600.00, 170.00, 80.00, 50.00]
+    },
+    {
+        "CarType": "Honda HR-V",
+        "image": "image/CarType/Honda_HRV.png",
+        "listPrice": [260.00, 45.00, 65.00, 440.00, 90.00, 3100.00, 3800.00, 180.00, 85.00, 55.00]
+    },
+    {
+        "CarType": "Honda WR-V",
+        "image": "image/CarType/Honda_WRV.png",
+        "listPrice": [230.00, 40.00, 60.00, 410.00, 85.00, 2800.00, 3500.00, 165.00, 80.00, 50.00]
+    },
+    {
+        "CarType": "Proton Saga",
+        "image": "image/CarType/Proton_Saga.png",
+        "listPrice": [150.50, 12.90, 35.10, 450.90, 70, 2000, 3000.90, 140, 60, 35.10]
+    },
+    {
+        "CarType": "Proton X50",
+        "image": "image/CarType/Proton_X50.png",
+        "listPrice": [170.50, 14.90, 40.10, 480.90, 80, 2200, 3200.90, 150, 65, 40.10]
+    },
+    {
+        "CarType": "Proton Persona",
+        "image": "image/CarType/Proton_Persona.png",
+        "listPrice": [160.50, 13.90, 38.10, 470.90, 75, 2100, 3100.90, 145, 64, 38.10]
+    },
+    {
+        "CarType": "Toyota Avanza",
+        "image": "image/CarType/Toyota_Avanza.png",
+        "listPrice": [155.50, 12.90, 36.10, 460.90, 70, 2050, 3050.90, 140, 60, 36.10]
+    },
+    {
+        "CarType": "Toyota Vios",
+        "image": "image/CarType/Toyota_Vios.png",
+        "listPrice": [165.50, 13.90, 38.10, 475.90, 75, 2150, 3150.90, 145, 63, 38.10]
+    },
+    {
+        "CarType": "Toyota Hiace",
+        "image": "image/CarType/Toyota_Hiace.png",
+        "listPrice": [175.50, 14.90, 40.10, 485.90, 80, 2250, 3250.90, 150, 65, 40.10]
+    }
+]

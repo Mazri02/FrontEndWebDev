@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Saiko Malaysia",
+    "price": "RM300",
+    "manufactured": "Malaysia",
+    "image": "https://saiko.com.my/images/products/saiko-shock-absorber/class-leading-car-shock-absorber-supplier-in-malaysia-1.jpg",
+    "description": "The shock absorbers from Saiko are engineered to handle even the toughest road conditions, providing superb ride and handling. This ensures a comfortable ride regardless of the terrain. With a commitment to quality assurance, Saiko’s suspension system components are sourced from global industry leaders and are fully tested to be compatible with both OEM and ISO 9001 standards."
+  },
+  {
+    "id": 2,
+    "title": "Titan Sportstar",
+    "price": "RM400",
+    "manufactured": "Japan",
+    "image": "https://www.titansuspension.com/wp-content/uploads/2020/03/product-sportstar-set-1500x997.jpg",
+    "description": "The Sportstar was built to live up to its name. It’s the perfect solution for the sporty driver who is seeking better handling on the street, and on the track! Have full control over your compression and rebound damping with 20 clicks of adjustment. You can now fine tune your ride for comfort, sport and performance. Perfect for daily driving and occasional track use!"
+  },
+  {
+    "id": 3,
+    "title": "TITAN T-40",
+    "price": "RM350",
+    "manufactured": "Japan",
+    "image": "https://www.titansuspension.com/wp-content/uploads/2020/03/product-T-40-set-1500x997.jpg",
+    "description": "The T-40 combines the light weight of a monotube damper with the ride comfort of a twin tube design. This suspension unit will create the perfect balance for your sedan or SUV. Designed specifically with comfort in mind, perfect for street, heavy load and highway driving. It provides more comfort, absorbs bumps and provides consistency for the perfect cruise. With 24 clicks of adjustment, you can now adjust your ride height and damping force as you wish."
+  },
+  {
+    "id": 4,
+    "title": "Zodiac Zuspension Pro",
+    "price": "RM450",
+    "manufactured": "United Kingdom",
+    "image": "https://cdn.zodiac.nl/media/zodiac-generated/3e76695d/4cdb/4696/9b96/ff5f784a2601/standard-rgba.png?height=350",
+    "description": "Zuspension Pro shock absorbers are not just replacement shock absorbers. The quality in design and materials used, make the Zuspension Pro shock absorbers the choice for those that are looking for improved road holding thus more riding pleasure. Zuspension Pro shocks are exclusively available from Zodiac. These hydraulic shocks have a black painted finish and come in pairs, complete with chrome springs and short style spring covers installed."
+  }
+]

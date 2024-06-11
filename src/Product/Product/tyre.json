@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Michelin Energy XM2+",
+    "price": "RM260",
+    "manufactured": "Japan",
+    "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xm69hss7h6oyne/4w-387_3528708368866_tire_michelin_energy-xm2-plus_205-slash-55-r16-91v_a_main_1-30_nopad.webp",
+    "description": "The Michelin Energy XM2+ is the perfect tyre for you if you are looking for one that will last a long time, or if you are someone who needs to travel far regularly and requires quality tyres. Regardless of whether it’s raining heavily or not, the dry and wet grip braking and cornering abilities of this tyre are certainly impressive. One reviewer went so far as to say that these tyres are life-saving during an accident on the road."
+  },
+  {
+    "id": 2,
+    "title": "Goodyear Assurance TripleMax 2",
+    "price": "RM280",
+    "manufactured": "German",
+    "image": "https://cdn1.productnation.co/optimized/1024w/stg/sites/1/62c2b25cb1b0f.webp",
+    "description": "This tyre is perfect for you if you need a great performing and quality tyre that will not break the bank. Good value for money, the tyre emits low noise while driving on the highway, and the car feels stable most of the time thanks to its good handling performance. Besides, its wet grip is superior, with acceptable hydroplaning resistance."
+  },
+  {
+    "id": 3,
+    "title": "Continental Comfort Contact 6 CC6",
+    "price": "RM290",
+    "manufactured": "Saudi Arabia",
+    "image": "https://cdn1.productnation.co/optimized/1024w/stg/sites/1/62c2b0f06301a.webp",
+    "description": "The CC6 entirely absorbs road vibrations and potholes, resulting in a quieter ride. It makes for a smooth drive at high speeds of up to 120km/h on highways and performs well over bumps and potholes as it offers good stability and grip. However, while it handles well on wet roads, it’s not superb."
+  },
+  {
+    "id": 4,
+    "title": "Bridgestone Ecopia EP300",
+    "price": "RM190",
+    "manufactured": "China",
+    "image": "https://cdn1.productnation.co/optimized/1024w/stg/sites/1/62c2b2fb074ac.webp",
+    "description": "The EP300 is positioned as a next-generation eco-tyre with low rolling resistance, better wet grip, and an extended lifespan. Best of all, the EP300’s low rolling resistance improves fuel efficiency, resulting in greater fuel economy and lower CO² emissions."
+  }
+]
+  

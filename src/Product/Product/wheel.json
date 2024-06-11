@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "OZ Racing Indy HLT Titanium",
+      "price": "RM1390",
+      "manufactured": "Italy",
+      "image": "https://cdn4.wheelbasealloys.com/product-images/product-526146_69663_900.jpg",
+      "description": "The OZ Racing Indy HLT Titanium wheels are a testament to cutting-edge technology and performance, drawing inspiration from the world of IndyCar racing. These wheels feature a 5 double-spoke design that is not only aesthetically pleasing but also rooted in racing expertise. Made in Italy, the Indy HLT Titanium wheels are equipped with OZ’s exclusive HLT (High Light Technology), which ensures a combination of structural strength and lightness."
+    },
+    {
+      "id": 2,
+      "title": "Enkei GTC02",
+      "price": "RM1280",
+      "manufactured": "Japan",
+      "image": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-WHEELS-gtc02-hyper-silver-side-2.jpg",
+      "description": "Racing is where all of the best R&D happens. Engineers obsess over every detail looking for the slightest advantage to shave fractions of a second off of lap times. What we learn on the world’s premier circuits is eventually implemented into mainstream products and made available to the weekend racer. That’s how the new Enkei GTC02 was born. Based on the RA series wheels used in the Super GT racing series, the GTC02 pulls from the same bag of tricks as the RA series to give weekend racers the competitive edge they need to win."
+    },
+    {
+      "id": 3,
+      "title": "Lenso ES7 Black",
+      "price": "RM1170",
+      "manufactured": "Thailand",
+      "image": "https://cdn4.wheelbasealloys.com/product-images/product-84119_1572_900.jpg",
+      "description": "The Lenso ES7 Black wheels exude elegance and performance, with a deep dish design and a gloss black polished face and lip. They belong to the esteemed Lenso brand, synonymous with quality and craftsmanship. The ES7’s mirror lip finish and optional polished look make them a visually striking choice that promises durability and a standout appearance on any vehicle."
+    },
+    {
+      "id": 4,
+      "title": "WedsSport TC105N",
+      "price": "RM1430",
+      "manufactured": "Japan",
+      "image": "https://importmonster.com.au/wp-content/uploads/2017/05/Untitled-2.jpg",
+      "description": "The WedsSport TC105N wheel is a high-quality, lightweight racing wheel with a 10-spoke design, developed through extensive research in Japan's SuperGT series. It features a durable monobloc construction, an N-Frame structure for increased rigidity, and side cuts for optimal load distribution, reflecting WedsSport's dedication to performance and longevity."
+    }
+  ]
+    

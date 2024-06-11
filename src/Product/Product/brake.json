@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "Brembo 1S5.8002A2",
+      "price": "RM1295",
+      "manufactured": "Italy",
+      "image": "https://th.bing.com/th/id/OIP.9m5qeLj6RWb8EEcsA7N9igAAAA?w=279&h=185&c=7&r=0&o=5&pid=1.7",
+      "description": "The Brembo 1S5.8002A2 is a high-performance brake kit from Brembo's GT Series, featuring 4-piston cast monobloc calipers made of aluminum for strength and lightness. It integrates with the OEM hydraulic system for a firm brake feel and offers exceptional stopping power for a reliable and controlled driving experience."
+    },
+    {
+      "id": 2,
+      "title": "Sanwa Brake Drum",
+      "price": "RM1180",
+      "manufactured": "Japan",
+      "image": "https://emerald-autoparts.com/wp-content/uploads/2023/07/Sanwa-Brake-Drum.jpg",
+      "description": "The Sanwa Brake Drum is designed as Original Equipment (OEM) for high-performance vehicles, making it an ideal choice for drivers with an energetic driving style, as well as for competition, high-speed touring, and freeway driving. It’s recognized for its durability and contribution to a vehicle’s reliable braking system."
+    },
+    {
+      "id": 3,
+      "title": "Bendix Priority 1",
+      "price": "RM1290",
+      "manufactured": "USA",
+      "image": "https://www.bendix-brakes.com/images/products_new/updated-p1-main.png",
+      "description": "The Bendix Priority 1 brake system is an ultra-premium offering that meets or exceeds industry standards. It features a 100% copper-free formulation, complying with environmental regulations to reduce copper use by 2025. The brake pads ensure quiet braking, smooth pad-to-rotor contact, and come with a premium anti-corrosive coating that is heat resistant. This extends the life of both the friction material and the rotor by preventing corrosion build-up. Designed to OE specifications, the Bendix Priority 1 brakes provide safe driving in all conditions with their ultra-smooth pedal response."
+    },
+    {
+      "id": 4,
+      "title": "Power Stop Extreme KOE2058",
+      "price": "RM1680",
+      "manufactured": "USA",
+      "image": "https://i.pinimg.com/736x/ab/a6/45/aba64501212865350b58e1873e9bbeb1.jpg",
+      "description": "This brake kit from the Power Stop has everything you need to have top-quality car brakes. It includes stainless steel installation hardware and ceramic brake lubricant. It has OE-style replacement rotors that are balanced to ensure your ride is smooth and comfortable. The shims insulate noise for braking that is as quiet as possible. This kit is fairly affordable compared to others on the market. They are designed to be dust-free, boosting the performance of your brakes throughout their lifespan."
+    }
+  ]
+    
