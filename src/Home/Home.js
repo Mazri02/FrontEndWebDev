@@ -79,7 +79,6 @@ function App() {
               <li>Kuala Lumpur, London, 53200</li>
               <li>Petaling Jaya, Selangor, 47300</li>
               <li>Alor Gajah, Melaka, 78750</li>
-              <li>Segamat, Johor, 85000</li>
             </ul>
           </div>
         </div>
