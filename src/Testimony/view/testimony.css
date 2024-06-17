@@ -1,0 +1,26 @@
+.checked {
+    color: orange;
+}
+
+.StarContainer {
+    display: flex;
+    font-size: xx-large;
+    padding-bottom: 15px;
+}
+
+.testimony-body {
+    padding: 2em;       
+}
+
+.feedbackHeader {
+    padding-left: 3em;  
+    padding-bottom: 3em;     
+}
+
+.testimony {
+    padding-bottom: 2em;       
+}
+
+.gallery {
+    transform: scale(1.2);
+}

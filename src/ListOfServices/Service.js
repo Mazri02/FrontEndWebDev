@@ -112,14 +112,14 @@ function App() {
               <li><Link to="/">Home</Link></li>
               <li><Link className="Selected" to="/Service">Service</Link></li>
               <li><Link to="/Product">Products</Link></li>
-              <li><Link to="/">Testimonial</Link></li>
+              <li><Link to="/Testimony">Testimonial</Link></li>
         </ul>
       </header>
       
     <div className='ContExplain'>
       {dataService.map((value,i) => {
             return <div className='ServiceExpContainer'>
-        <div className='ServiceCard' style={{backgroundImage : `url(${dataService[i].imageUrl}`}}/>
+        <div className='ServiceCard' style={{backgroundImage : `url(${process.env.PUBLIC_URL + "/" + dataService[i].imageUrl}`}}/>
         <div className='ServiceTitle'>
                 <div className='MainTitle'>{dataService[i].imageTitle}</div>
                 <div className='SubTitle'>{dataService[i].subTitle}</div>
@@ -141,7 +141,7 @@ function App() {
                             if(data[i].CarType.split(" ")[0] === "Perodua"){
                                 return (
                                     <div className='ProductCont' onClick={(e) => chooseCar(e.target)}>
-                                        <div className='ProductImage' style={{backgroundImage: `url(${data[i].image})`,padding:'4em'}}/>
+                                        <div className='ProductImage' style={{backgroundImage: `url(${process.env.PUBLIC_URL + "/" + data[i].image})`,padding:'4em'}}/>
                                         <div className='ProductTitle'>{data[i].CarType}</div>
                                     </div>
                                 )
@@ -156,7 +156,7 @@ function App() {
                             if(data[i].CarType.split(" ")[0] === "Honda"){
                                 return (
                                     <div className='ProductCont' onClick={(e) => chooseCar(e.target)}>
-                                        <div className='ProductImage' style={{backgroundImage: `url(${data[i].image})`,padding:'4em'}}/>
+                                        <div className='ProductImage' style={{backgroundImage: `url(${ process.env.PUBLIC_URL + "/" +data[i].image})`,padding:'4em'}}/>
                                         <div className='ProductTitle'>{data[i].CarType}</div>
                                     </div>
                                 )
@@ -170,7 +170,7 @@ function App() {
                             if(data[i].CarType.split(" ")[0] === "Proton"){
                                 return (
                                     <div className='ProductCont' onClick={(e) => chooseCar(e.target)}>
-                                        <div className='ProductImage' style={{backgroundImage: `url(${data[i].image})`,padding:'4em'}}/>
+                                        <div className='ProductImage' style={{backgroundImage: `url(${process.env.PUBLIC_URL + "/" +data[i].image})`,padding:'4em'}}/>
                                         <div className='ProductTitle'>{data[i].CarType}</div>
                                     </div>
                                 )
@@ -185,7 +185,7 @@ function App() {
                             if(data[i].CarType.split(" ")[0] === "Toyota"){
                                 return (
                                     <div className='ProductCont' onClick={(e) => chooseCar(e.target)}>
-                                        <div className='ProductImage' style={{backgroundImage: `url(${data[i].image})`,padding:'4em'}}/>
+                                        <div className='ProductImage' style={{backgroundImage: `url(${process.env.PUBLIC_URL + "/" + data[i].image})`,padding:'4em'}}/>
                                         <div className='ProductTitle'>{data[i].CarType}</div>
                                     </div>
                                 )

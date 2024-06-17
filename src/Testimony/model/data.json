@@ -1,0 +1,29 @@
+{
+    "testimony": [
+        {
+          "url":"/image/Testimony/testimony1.jpg",
+          "primary":"Sophia Chen",
+          "tiertary":"“Emily, the skilled technician at Car Repair, went above and beyond by providing exceptional service. She meticulously explained the brake issue, ensuring that you understood the problem thoroughly. Her clear communication instilled confidence, and her prompt resolution of the issue demonstrated expertise. When professionals like Emily prioritize effective communication and efficient problem-solving, it significantly enhances the overall customer experience. ”"
+        },
+        {
+          "url":"/image/Testimony/testimony3.jpg",
+          "primary":"Elizabeth",
+          "tiertary":"“I had a fantastic experience at Car Repair. The mechanics were knowledgeable and transparent about the repairs needed. They finished the job ahead of schedule and even washed my car before returning it to me. I will definitely be coming back for all my car maintenance needs!"
+        },
+        {
+          "url":"/image/Testimony/testimony2.png",
+          "primary":"Ben",
+          "tiertary":"“Car Repair exceeded my expectations! Their customer service was top-notch, and they provided a detailed breakdown of the costs before starting any work. My car has never run better. I highly recommend them to anyone looking for honest and efficient car repairs."
+        },
+        {
+          "url":"/image/Testimony/testimony5.png",
+          "primary":"Johnathon",
+          "tiertary":"“I'm extremely satisfied with the service I received at Car Repair. The staff was courteous and kept me informed throughout the entire process. They fixed a persistent issue that other workshops couldn't solve. Great job, PQR Automotive!”"
+        },
+        {
+          "url":"/image/Testimony/testimony4.jpg",
+          "primary":"Lily",
+          "tiertary":"“The team at Car Repair is amazing! They went above and beyond to ensure my car was in perfect condition. The pricing was fair, and there were no hidden charges. It's refreshing to find such a trustworthy place. Highly recommend!”"
+        }
+    ]
+  }

@@ -88,7 +88,7 @@ export default function Home() {
                     ></LongCard> */}
                     <IdentityCard
                         maxWidth={1000}
-                        images='image/HomeImage/about_us.jpg'
+                        images={process.env.PUBLIC_URL + "/"+'image/HomeImage/about_us.jpg'}
                         primary="Our Journey"
                         secondary='At CareNWorkshop, we’re more than just a car repair shop. We’re a team of passionate mechanics, gearheads, and problem solvers who live and breathe all things automotive. Our journey began with a simple mission: to keep wheels turning, engines humming, and smiles on our customers’ faces. Back in 2015, a small garage nestled in the heart of Kajang,Selangor became the birthplace of our automotive adventure. Armed with a toolbox, a dream, and a relentless drive to serve our community, our founder Azri Mokhzani set out to change the way people experienced car repairs. CareNWorkshop is trusted by companies in the automotive aftermarket and has had partnerships with: Advance Auto Parts, A/C Pro, Batteries Plus, Cars.com, Energizer, FRAM, Mann + Hummel, Meijer, O’Reilly Auto Parts, Purolator, Sylvania, STP, Walmart, WIX Filters and more. CareNWorkshop is a vibrant company backed by distinguished angel investors and is not owned, wholly or partially, by any car company, dealership or aftermarket provider.'
                         description='All this hard work, the grease-stained hands, and the rhythmic hum of tools—it’s more than just repairing cars. It’s about breathing life back into engines, stitching together memories, and ensuring that every vehicle that leaves our workshop carries a piece of our dedication. We’re not just fixing cars; we’re restoring freedom, one bolt at a time.'
@@ -110,30 +110,12 @@ export default function Home() {
             </div>
             <div className='StaffMember'>
                 {imageData.staff.map((staff) => (
-                    <IdentityCard maxWidth={200} images={staff.url} primary={staff.name} secondary={staff.position} description={staff.motto}></IdentityCard>
+                    <IdentityCard maxWidth={200} images={ process.env.PUBLIC_URL + "/"+staff.url} primary={staff.name} secondary={staff.position} description={staff.motto}></IdentityCard>
                 ))}
             </div>
 
             <div className='divider'>
                 <Divider sx={{ bgcolor: 'white' }} variant='middle' />
-            </div>
-
-            <div className='TestimonialText'>
-                <Typography variant='h4'>
-                    Testimonial
-                </Typography>
-            </div>
-
-            <div className='Testimonial'>
-                <LongCard
-                    images={'image/HomeImage/about_info.jpg'}
-                    onImage={true}
-                    isImageOnRight={false}
-                    starRating={true}
-                    primary="Sophia Chen"
-                    secondary=''
-                    tiertary='“Emily, the skilled technician at CareNWorkshop, went above and beyond by providing exceptional service. She meticulously explained the brake issue, ensuring that you understood the problem thoroughly. Her clear communication instilled confidence, and her prompt resolution of the issue demonstrated expertise. When professionals like Emily prioritize effective communication and efficient problem-solving, it significantly enhances the overall customer experience. ”'
-                ></LongCard>
             </div>
 
             <div className='divider'>
@@ -152,7 +134,7 @@ export default function Home() {
                 </div>
                 <div className='ContactSelangor'>
                     {imageData.location.map((location) => (
-                        <MapCard images={location.images} url={location.url} primary={location.name} secondary={location.phonenumber} description={location.email}></MapCard>
+                        <MapCard images={process.env.PUBLIC_URL + "/"+location.images} url={location.url} primary={location.name} secondary={location.phonenumber} description={location.email}></MapCard>
                     ))}
                 </div>
             </div>

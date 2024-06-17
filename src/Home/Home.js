@@ -15,13 +15,13 @@ function App() {
               <li><Link className="Selected" to="/">Home</Link></li>
               <li><Link to="/Service">Service</Link></li>
               <li><Link to="/Product">Products</Link></li>
-              <li><Link to="/">Testimonial</Link></li>
+              <li><Link to="/Testimony">Testimonial</Link></li>
         </ul>
       </header>
 
       <div className='contVids'>
         <video className='Video' autoPlay muted>
-          <source src="image/HomeImage/carmontage.mp4" type="video/mp4" />
+          <source src={process.env.PUBLIC_URL +"/image/HomeImage/carmontage.mp4"} type="video/mp4" />
         </video>
         <div className='textType'>
           <div>

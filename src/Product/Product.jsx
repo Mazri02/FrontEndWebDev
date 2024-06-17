@@ -15,7 +15,7 @@ function App() {
               <li><Link to="/">Home</Link></li>
               <li><Link to="/Service">Service</Link></li>
               <li><Link className="Selected" to="/Product">Products</Link></li>
-              <li><Link to="/">Testimonial</Link></li>
+              <li><Link to="/Testimony">Testimonial</Link></li>
         </ul>
       </header>
       <ProductNavigation />
