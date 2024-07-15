@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FrontEndWebDev/static/css/main.1366dce9.css",
+    "main.css": "/FrontEndWebDev/static/css/main.a77a7a2d.css",
     "main.js": "/FrontEndWebDev/static/js/main.23d05774.js",
     "static/js/453.d855a71b.chunk.js": "/FrontEndWebDev/static/js/453.d855a71b.chunk.js",
     "static/media/NotoSans-Regular.ttf": "/FrontEndWebDev/static/media/NotoSans-Regular.fa11626fafb16c629d2c.ttf",
@@ -8,12 +8,12 @@
     "static/media/whatsapp.png": "/FrontEndWebDev/static/media/whatsapp.d79a6ee2ca2b75a5a3ba.png",
     "static/media/instagram.png": "/FrontEndWebDev/static/media/instagram.476cadf1f1a5d36362a7.png",
     "index.html": "/FrontEndWebDev/index.html",
-    "main.1366dce9.css.map": "/FrontEndWebDev/static/css/main.1366dce9.css.map",
+    "main.a77a7a2d.css.map": "/FrontEndWebDev/static/css/main.a77a7a2d.css.map",
     "main.23d05774.js.map": "/FrontEndWebDev/static/js/main.23d05774.js.map",
     "453.d855a71b.chunk.js.map": "/FrontEndWebDev/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1366dce9.css",
+    "static/css/main.a77a7a2d.css",
     "static/js/main.23d05774.js"
   ]
 }
